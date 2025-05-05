@@ -1,5 +1,5 @@
 
-🏥 AarogyaAI - Multilingual Prescription Analyzer
+## 🏥 AarogyaAI - Multilingual Prescription Analyzer
 
 
 AarogyaAI is an AI-powered system that interprets medical prescriptions written in multiple languages using Google Gemini 1.5 Flash and OCR. It flags potential drug interactions, dosage errors, and allergies — all through a simple and intuitive interface.
