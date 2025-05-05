@@ -1,0 +1,9 @@
+Condition,FirstLineTreatment,AlternativeTreatments,Monitoring,SpecialConsiderations
+Diabetes,Metformin 500mg BD,SGLT2 inhibitors, GLP-1 agonists,HbA1c every 3 months,"Renal adjustment needed"
+Hypertension,Amlodipine 5mg OD,ACE inhibitors, ARBs,BP weekly,"Caution in pregnancy"
+Asthma,Inhaled corticosteroids,LABA, LTRA,"PFT annually","Check inhaler technique"
+Depression,SSRI (Escitalopram),SNRI, Mirtazapine,"Monthly follow-up","Suicide risk assessment"
+Hyperthyroidism,Carbimazole 20mg OD,PTU, Radioiodine,"TFT monthly","Pregnancy category D"
+Pneumonia,Amoxicillin 500mg TDS,Azithromycin, Levofloxacin,"CXR follow-up","Assess severity score"
+Migraine,Sumatriptan 50mg PRN,Propranolol, Topiramate,"Headache diary","Rule out secondary causes"
+Osteoporosis,Alendronate 70mg weekly,Denosumab, Teriparatide,"DEXA every 2y","Calcium/Vit D supp"

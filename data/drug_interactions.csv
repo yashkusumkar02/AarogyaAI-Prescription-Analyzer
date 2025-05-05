@@ -1,0 +1,8 @@
+Drug1,Drug2,InteractionSeverity,Mechanism,ClinicalManagement
+Warfarin,Amiodarone,High,Metabolic inhibition,"Reduce warfarin dose, monitor INR"
+Simvastatin,Clarithromycin,High,CYP3A4 inhibition,"Use pravastatin instead"
+SSRI,Tramadol,High,Serotonin syndrome,"Avoid combination"
+Digoxin,Furosemide,Moderate,Electrolyte imbalance,"Monitor K+ and digoxin levels"
+Metformin,Contrast dye,Moderate,Renal toxicity,"Hold metformin 48h pre/post"
+Lithium,NSAIDs,High,Renal clearance reduction,"Monitor Li levels, avoid NSAIDs"
+MAOI,SSRI,Contraindicated,Serotonin syndrome,"2 week washout period"

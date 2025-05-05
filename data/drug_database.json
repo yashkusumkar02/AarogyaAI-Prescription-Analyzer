@@ -1,0 +1,18 @@
+{
+    "drugs": [
+      {
+        "generic_name": "paracetamol",
+        "brand_names": ["Crocin", "Calpol", "Dolo"],
+        "uses": ["fever", "pain"],
+        "side_effects": ["nausea", "liver damage in overdose"],
+        "interactions": ["alcohol", "warfarin"]
+      },
+      {
+        "generic_name": "amoxicillin",
+        "brand_names": ["Amoxil", "Mox"],
+        "uses": ["bacterial infections"],
+        "side_effects": ["diarrhea", "rash"],
+        "interactions": ["probenecid", "oral contraceptives"]
+      }
+    ]
+  }
