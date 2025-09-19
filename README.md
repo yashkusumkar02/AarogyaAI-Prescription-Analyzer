@@ -4,6 +4,9 @@
 
 AarogyaAI is an AI-powered system that interprets medical prescriptions written in multiple languages using Google Gemini 1.5 Flash and OCR. It flags potential drug interactions, dosage errors, and allergies — all through a simple and intuitive interface.
 
+<img width="1918" height="910" alt="image" src="https://github.com/user-attachments/assets/16872980-af89-451a-9743-e6f3f50e99f4" />
+
+
 🚀 Features
 
 - 📄 Multilingual OCR: Extracts prescription text from images in English, Hindi, and more.
